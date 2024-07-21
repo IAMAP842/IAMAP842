@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/aritra-pal200402/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aritra pal" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ap11111" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ap11111" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/aritra_88_cdf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aritra_88_cdf" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/az_cp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aritra_88_cdf" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aritra_947" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aritra_947" height="30" width="40" /></a>
 <a href="https://discord.gg/a16478" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="a16478" height="30" width="40" /></a>
 </p>
